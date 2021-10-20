@@ -1,0 +1,21 @@
+0
+Oz Albayrak
+Starr 19
+172 12
+Sundbyberg
+08-123456
+oz@oz.com
+1
+Fredrik Bolund
+Skvadron 45
+153 45
+Jakobsberg
+fredrik@bo.com
+
+2
+hej
+23
+
+
+3
+2
